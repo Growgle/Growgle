@@ -2,6 +2,8 @@
 
 ### *Where Careers Meet Intelligence — Personalised, Real-Time, AI-Driven.*
 
+<img width="1024" height="1024" alt="Pasted image 20250921155031" src="https://github.com/user-attachments/assets/1bf3ccb9-8640-4f7f-bb14-958503f2b326" />
+
 ---
 
 ## Overview
@@ -113,18 +115,26 @@ Growgle bridges the gap between **policy, industry, and people** — enabling a 
 
 ---
 
-# System Architecture
+# User Flow
+
+<img width="2146" height="1112" alt="Gen AI UserFlow" src="https://github.com/user-attachments/assets/561ff63c-65de-4854-bce4-dc955df5d9b5" />
+
+# Architecture Diagram
+
+<img width="1865" height="1448" alt="Gen AI Architecture" src="https://github.com/user-attachments/assets/34bd3c4f-a28e-4f5c-ad48-a653dc2e4d9e" />
 
 ---
 
 # Tech Stack
+
+<img width="947" height="631" alt="Screenshot 2025-11-02 at 10 27 19 PM" src="https://github.com/user-attachments/assets/6f01bbc1-b7dd-4eb6-895e-7bc64a16d18b" />
 
 ---
 
 # Demo Video
 
 **Demo (3 minutes):**
-*link here*
+*https://drive.google.com/file/d/1UJAdYrAGP7HIvpWCzcEtOUGyLrUJ4IbC/view*
 
 ---
 
