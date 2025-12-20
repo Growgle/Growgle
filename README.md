@@ -2,7 +2,8 @@
 
 ### *Where Careers Meet Intelligence — Personalised, Real-Time, AI-Driven.*
 
-<img width="1024" height="1024" alt="Pasted image 20250921155031" src="https://github.com/user-attachments/assets/1bf3ccb9-8640-4f7f-bb14-958503f2b326" />
+<!-- <img width="1024" height="1024" alt="Pasted image 20250921155031" src="https://github.com/user-attachments/assets/1bf3ccb9-8640-4f7f-bb14-958503f2b326" /> -->
+<img width="2048" height="2048" alt="growgleimg" src="https://github.com/user-attachments/assets/0307abbb-24ca-4799-8080-103a94081d0d" />
 
 ---
 
